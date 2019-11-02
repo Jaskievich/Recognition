@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <eu name="м->см" >0.01f</eu>
+    <eu name="кг->г" >0.001f</eu>
+    <eu name="км->миль" >1.60934f</eu>
+</resources>
